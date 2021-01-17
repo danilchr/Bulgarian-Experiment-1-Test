@@ -1,0 +1,295 @@
+<div style="width: 40em;">
+
+
+<p>
+
+Моля попълнете следната анкета и натиснете копчето отдлолу, за да започнете експеримента.
+
+</p> 
+  
+<table>
+
+<tr>
+	<td>Възраст (полных лет):</td><td>
+		<input name="age" type="text" size="5" class="obligatory" />
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="age"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>Пол:</td><td>
+		<input name="sex" type="radio" value="female" class="obligatory" id="csexfemale"/><label for="csexfemale">женски</label>
+        	<input name="sex" type="radio" value="male" class="obligatory" id="csexmale" /><label for="csexmale">мъжки</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="sex"></label>
+	</td>
+</tr>
+
+<!--
+
+<tr>
+	<td>Роден език:</td><td>
+		<input name="nativelg" type="radio" value="BG" class="obligatory" id="natlangbg" /><label for="natlangbg">български </label>
+        	<input name="nativelg" type="radio" value="other" class="obligatory" id="natlangother"/><label for="natlangother">друг</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="nativelg"></label>
+	</td>
+</tr>
+
+-->
+
+<tr>
+	<td>Роден език 1:</td><td>
+        	<input name="nativelg" type="radio" value="RU" class="obligatory" id="natlangru" /><label for="natlangru">български </label>
+        	<input name="nativelg" type="radio" value="other" class="obligatory" id="natlangother"/><label for="natlangother">друг</label>
+        	<input name="nativelgtext" type="text" size= "15" class="optional" />
+	</td>
+</tr>  
+<tr>
+	<td colspan="2"><label class="error" for="nativelg"></label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="nativelgtext"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td>Роден език 2 (попълнете, ако имате такъв език):</td><td>
+		<input name="nativelg2" type="text" size= "15" class="optional" />
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="nativelg2"></label></td>
+</tr>
+ 
+<tr>
+	<td>Роден град:</td><td>
+		<input name="nativetown" type="text" size="15" class="obligatory" />
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="nativetown"></label></td>
+</tr>
+ 
+ 
+<tr>
+	<td>Град, в който сте живели повече от една година <br> (в скобите отбележете колко години сте живели в този град):</td><td>
+		<input name="region" type="text" size= "30" class="optional" />
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="region"></label></td>
+</tr>
+ 
+<tr>
+	<td>Максимална степен на придобито образование:</td><td>    
+        	<input name="education" type="radio" value="pr" class="obligatory" id="edu_pr" /><label for="edu_pr">начално училищно</label><br>
+        	<input name="education" type="radio" value="osn" class="obligatory" id="edu_osn"/><label for="edu_osn">основно училищно</label><br>
+        	<input name="education" type="radio" value="sre" class="obligatory" id="edu_sre"/><label for="edu_sre">средно училищно</label><br>
+        	<input name="education" type="radio" value="uni_bach" class="obligatory" id="edu_uni_bach"/><label for="edu_uni_bach">висше, бакалавърска степен</label><br>
+        	<input name="education" type="radio" value="uni_mast" class="obligatory" id="edu_uni_mast"/><label for="edu_uni_mast">висше, магистърска степен</label><br>
+        	<input name="education" type="radio" value="uni_phd" class="obligatory" id="edu_uni_phd"/><label for="edu_uni_phd">висше, докторска степен</label><br>
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="education"></label>
+	</td>
+</tr>
+     
+<tr>
+	<td>Слух:</td><td>
+		<input name="hearing" type="radio" value="normal" class="obligatory" id="normal" /><label for="normal">нормален</label>
+		<input name="hearing" type="radio" value="corrected" class="obligatory" id="corrected"/><label for="corrected">нарушен</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="hearing"></label>
+	</td>
+</tr>
+
+<tr>
+	<td> Имате ли клинично потвърдени речни дефекти?</td><td>
+		<input name="diag" type="radio" value="yes" class="obligatory" id="Yes1" /><label for="Yes1">да</label>
+		<input name="diag" type="radio" value="no" class="obligatory" id="No1"/><label for="No1">не</label>
+	</td>
+</tr>
+<tr>
+	<td td colspan="2"  style="padding-bottom:0.5em;"><label class="error" for="diag"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td>Зрение:</td><td>
+		<input name="vision" type="radio" value="norm" class="obligatory" id="normvision" /><label for="normvision">нормално</label>
+		<input name="vision" type="radio" value="corr" class="obligatory" id="corrvision"/><label for="corrvision">коригирано</label>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="vision"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>Водеща ръка при писане:</td><td>
+		<input name="hand" type="radio" value="right" class="obligatory" id="righthand"/><label for="righthand">дясна</label>
+		<input name="hand" type="radio" value="left" class="obligatory" id="lefthand" /><label for="lefthand">лява </label>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="hand"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td>Текуща или придобита бакалавърска специалност (попълнете, ако в момента сте студент бакалавър или ако имате придобита бакалавърска степен):</td><td>
+		<input name="bachelor" type="text" size= "15" class="optional" />
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="bachelor"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>Текуща или придобита магистърска специалност (попълнете, ако в момента сте студент магистър или ако имате придобита магистърска степен):</td><td>
+		<input name="masters" type="text" size= "15" class="optional" />
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="masters"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>Текуща или придобита докторска специалност (попълнете, ако в момента сте докторант или ако имате придобита докторска степен):</td><td>
+		<input name="phd" type="text" size= "15" class="optional" />
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="phd"></label>
+	</td>
+</tr>
+
+<tr>
+	<td> Моята бакалвърска специалност НЕ е ориентирана към езици. (попълнете, ако в момента сте студент бакалавър или ако имате придобита бакалавърска степен)</td><td>
+		<input name="bachlang" type="radio" value="yes" class="optional" id="Yes2" /><label for="Yes2">да</label>
+		<input name="bachlang" type="radio" value="no" class="optional" id="No2"/><label for="No2">не</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="bachlang"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td> Моята магистърска специалност НЕ е ориентирана към езици. (попълнете, ако в момента сте студент магистър или ако имате придобита магистърска степен)</td><td>
+		<input name="mastlang" type="radio" value="yes" class="optional" id="Yes4" /><label for="Yes4">да</label>
+		<input name="mastlang" type="radio" value="no" class="optional" id="No4"/><label for="No4">не</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="mastlang"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td> Моята докторска специалност НЕ е ориентирана към езици. (попълнете, ако в момента сте докторант или ако имате придобита докторска степен)</td><td>
+		<input name="doclang" type="radio" value="yes" class="optional" id="Yes6" /><label for="Yes6">да</label>
+		<input name="doclang" type="radio" value="no" class="optional" id="No6"/><label for="No6">не</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="doclang"></label>
+	</td>
+</tr>
+
+<tr>
+	<td> Моята бакалвърска специалност НЕ е ориентирана към психология. (попълнете, ако в момента сте студент бакалавър или ако имате придобита бакалавърска степен)</td><td>
+		<input name="bachps" type="radio" value="yes" class="optional" id="Yes3" /><label for="Yes3">да</label>
+		<input name="bachps" type="radio" value="no" class="optional" id="No3"/><label for="No3">не</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="bachps"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td> Моята магистърска специалност НЕ ориентирана към психология. (попълнете, ако в момента сте студент магистър или ако имате придобита магистърска степен)</td><td>
+		<input name="mastps" type="radio" value="yes" class="optional" id="Yes5" /><label for="Yes5">да</label>
+		<input name="mastps" type="radio" value="no" class="optional" id="No5"/><label for="No5">не</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="mastps"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td> Моята докторска специалност НЕ е ориентирана към психология? (попълнете, ако в момента сте докторант или ако имате придобита докторска степен)</td><td>
+		<input name="docps" type="radio" value="yes" class="optional" id="Yes7" /><label for="Yes7">да</label>
+		<input name="docps" type="radio" value="no" class="optional" id="No7"/><label for="No7">не</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="docps"></label>
+	</td>
+</tr>
+
+
+<tr>
+	<td>
+		<input type="checkbox" class="obligatory" name="consent1" id="consentcx1" /><label for="consentcx1">Потвърждавам, че това е първият път, за който правя експеримента.</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="consent1"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<input type="checkbox" class="obligatory" name="consent2" id="consentcx2" /><label for="consentcx1">Потвърждавам, че Не съм правил/правила друг експеримент за множествено число от университета на Нова Горица в рамките на 6 месеца.</label></td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="consent2"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<input type="checkbox" class="obligatory" name="consent3" id="consentcx3" /><label for="consentcx3">Потвърждавам, че имам работещ микрофон.</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="consent3"></label>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<input type="checkbox" class="obligatory" name="consent" id="consentcx" /><label for="consentcx">Съгласен съм данните, събрани по време на този експеримент, да бъдат обработвани с научни цели.</label>
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-bottom:0.5em;"><label class="error" for="consent"></label>
+	</td>
+</tr>
+  
+</table>
+</div>
+</body>    
+</html>
