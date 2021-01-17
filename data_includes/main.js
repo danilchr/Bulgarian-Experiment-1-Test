@@ -1,4 +1,4 @@
-PennController.ResetPrefix(null) // Shorten command names (keep this line here)
+﻿PennController.ResetPrefix(null) // Shorten command names (keep this line here)
 //AddHost("http://sabotin.ung.si/~astepanov/SLO_COMP_audio/")
 AddHost("http://sabotin.ung.si/~astepanov/ru_wh_pictures/")
 
@@ -16,7 +16,7 @@ UploadRecordings("sendAsync", "noblock")
     let replaceConsentMic = ()=>{
             let consentLink = $(".PennController-PennController a.Message-continue-link");
             if (consentLink.length > 0 && consentLink[0].innerHTML.match(/^By clicking this link I understand that I grant this experiment's script access to my recording device/))
-                consentLink.html("Я даю согласие на использование микрофона в данном эксперименте.");
+                consentLink.html("Давам съгласието си за използване на микрофона в този експеримент.");
             else
                 window.requestAnimationFrame( replaceConsentMic );
     };
@@ -26,7 +26,7 @@ UploadRecordings("sendAsync", "noblock")
 
 newTrial("intro1", 
 
-	newText("Здравейте! Това изследване е посветено на някои особености на множественото число в българския език и се провежда в рамките на изследователски проект в Университета в Нова Горица, Словения и университета в Женева, Швейцария. Това е първото от  серия от проучвания върху множествественото число върху български и руски език.")
+	newText("Здравейте! Това изследване е посветено на някои особености на множественото число в българския език и се провежда в рамките на изследователски проект в Университета в Нова Горица, Словения и Университета в Женева, Швейцария. Това е първото от  серия от проучвания върху множествееното число върху български и руски език.")
 	.css("width","40em")
 	.css("line-height","1.4")
 	//.css("padding-top","40px")
@@ -69,7 +69,7 @@ newTrial("intro1",
 	.print()
 	,
       
-	newText("За да можете да запишете гласа си, ще ви е нужен работещ микрофон. Преди да продължите по-нататък с експеримента, моля пробвайте да изслушате своя глас, за да се уверите че всичко работи както трябва.")
+	newText("За да можете да запишете гласа си, ще ви е нужен работещ микрофон. Преди да продължите по-нататък с експеримента, моля пробвайте да изслушате своя глас, за да се уверите, че всичко работи както трябва.")
 	.css("width","40em")
 	.css("line-height","1.4")
 	//.css("padding-top","40px")
@@ -90,7 +90,7 @@ newTrial("intro1",
 	.print()
 	,
 
-	newText("Ще започнем с две примерни изречения, за да добиете представа за задачата. След тях започва настоящият експеримент. Моля, попълнете данните в анкетата за участие и натиснета връзката, за да продължите.")
+	newText("Ще започнем с две примерни изречения, за да добиете представа за задачата. След тях започва настоящият експеримент. Моля, попълнете данните в анкетата за участие и натиснете връзката, за да продължите.")
 	.css("width","40em")
 	.css("line-height","1.4")
 	//.css("padding-top","40px")
@@ -125,8 +125,8 @@ newTrial("demo",
     .css("padding-top","10%")
     .css("line-height","1.4")
     .checkboxWarning("Моля, изберите една от възможностите.")
-    .inputWarning("Моля попълнете това поле.")
-    .radioWarning("Моля, изберите една от възможностите.")
+    .inputWarning("Моля, попълнете това поле.")
+    .radioWarning("Моля, изберете една от възможностите.")
             .settings.log()
             .print()
  ,
@@ -207,9 +207,9 @@ Template("design_final.csv",
    newTrial( "bye" ,
    exitFullscreen()
    ,
-   newText("Това е краят на екперимента. Благодарим Ви за участието! Вы можете закрыть вкладку. Ако, имате въпроси относно експеримента, може да се обърнете към професор Атрур Степенанов с електронна поща "arthur.stepanov@ung.si", професор Пенка Статева с електронна поща "penka.stateva@ung.si" или Данил Христов с електронна поща "danil.khristov@ung.si".
+   newText("Това е краят на екперимента. Благодарим Ви за участието! Вы можете закрыть вкладку. Ако, имате въпроси относно експеримента, може да се обърнете към професор Артур Степанов по електронна поща 'arthur.stepanov@ung.si', професор Пенка Статева по електронна поща 'penka.stateva@ung.si' или Данил Христов по електронна поща 'danil.khristov@ung.si'.
 
-       .css("width","40em")
+")       .css("width","40em")
        .css("padding-top","10%")
        .css("line-height","1.4")
        .print()
