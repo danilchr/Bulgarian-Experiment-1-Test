@@ -1,0 +1,289 @@
+﻿Type,ConditionLabel,Numeral,BaseFormOfTargetNoun,FinalSentence,AllAudioFiles,PathOfAaudioFiles,Group
+target1,A,два,месец,В паметта на човека изплуваха два изминали,STE-001_mono.wav,Targets/mono/STE-001_mono.wav,A
+target1,APN,два,месец,В паметта на човека изплуваха два изминали преди време,STE-002_mono.wav,Targets/mono/STE-002_mono.wav,B
+target1,APAdvAN,два,месец,В паметта на човека изплуваха два изминали преди много дълго време,STE-003_mono.wav,Targets/mono/STE-003_mono.wav,C
+target1,A,три,кладенец,Като мираж в пустинята проблясваха три пълни,STE-004_mono.wav,Targets/mono/STE-004_mono.wav,C
+target1,APN,три,кладенец,Като мираж в пустинята проблясваха три пълни с камъчета,STE-005_mono.wav,Targets/mono/STE-005_mono.wav,A
+target1,APAdvAN,три,кладенец,Като мираж в пустинята проблясваха три пълни с много бляскави камъчета,STE-006_mono.wav,Targets/mono/STE-006_mono.wav,B
+target1,A,два,град,В страната процъфтяваха два посещавани,STE-007_mono.wav,Targets/mono/STE-007_mono.wav,B
+target1,APN,два,град,В страната процъфтяваха два посещавани от туристката,STE-008_mono.wav,Targets/mono/STE-008_mono.wav,C
+target1,APAdvAN,два,град,В страната процъфтяваха два посещавани от много заинтересoваната туристка,STE-009_mono.wav,Targets/mono/STE-009_mono.wav,A
+target1,A,три,товар,Сутринта пристигнаха три превозeни,STE-010_mono.wav,Targets/mono/STE-010_mono.wav,A
+target1,APN,три,товар,Сутринта пристигнаха три превозeни от колата,STE-011_mono.wav,Targets/mono/STE-011_mono.wav,B
+target1,APAdvAN,три,товар,Сутринта пристигнаха три превозeни от много голямата кола,STE-012_mono.wav,Targets/mono/STE-012_mono.wav,C
+target1,A,четири,възел,На кораба пътниците впечатляваха четири направени,STE-013_mono.wav,Targets/mono/STE-013_mono.wav,C
+target1,APN,четири,възел,На кораба пътниците впечатляваха четири направени от чистачката,STE-014_mono.wav,Targets/mono/STE-014_mono.wav,A
+target1,APAdvAN,четири,възел,На кораба пътниците впечатляваха четири направени от много сръчната чистачка,STE-015_mono.wav,Targets/mono/STE-015_mono.wav,B
+target1,A,пет,ъгъл,На дъската учениците занимаваха пет начертани,STE-016_mono.wav,Targets/mono/STE-016_mono.wav,B
+target1,APN,пет,ъгъл,На дъската учениците занимаваха пет начертани от ученичката,STE-017_mono.wav,Targets/mono/STE-017_mono.wav,C
+target1,APAdvAN,пет,ъгъл,На дъската учениците занимаваха пет начертани от много ученолюбивата ученичка,STE-018_mono.wav,Targets/mono/STE-018_mono.wav,A
+target1,A,шест,кон,От ранчото избягаха шест опитомени,STE-019_mono.wav,Targets/mono/STE-019_mono.wav,A
+target1,APN,шест,кон,От ранчото избягаха шест опитомени от бабата,STE-020_mono.wav,Targets/mono/STE-020_mono.wav,B
+target1,APAdvAN,шест,кон,От ранчото избягаха шест опитомени от много старата баба,STE-021_mono.wav,Targets/mono/STE-021_mono.wav,C
+target1,A,седем,случай,На срещата публиката вълнуваха седем обсъждани,STE-022_mono.wav,Targets/mono/STE-022_mono.wav,C
+target1,APN,седем,случай,На срещата публиката вълнуваха седем обсъждани от професорката,STE-023_mono.wav,Targets/mono/STE-023_mono.wav,A
+target1,APAdvAN,седем,случай,На срещата публиката вълнуваха седем обсъждани от много запознатата професорка,STE-024_mono.wav,Targets/mono/STE-024_mono.wav,B
+target1,A,два,венец,Главата на войника красяха два изплетени,STE-025_mono.wav,Targets/mono/STE-025_mono.wav,B
+target1,APN,два,венец,Главата на войника красяха два изплетени от вдовицата,STE-026_mono.wav,Targets/mono/STE-026_mono.wav,C
+target1,APAdvAN,два,венец,Главата на войника красяха два изплетени от много добрата вдовица,STE-027_mono.wav,Targets/mono/STE-027_mono.wav,A
+target1,A,четири,критерий,Следващите стъпки определиха четири съществени,STE-028_mono.wav,Targets/mono/STE-028_mono.wav,A
+target1,APN,четири,критерий,Следващите стъпки определиха четири съществени за събранието,STE-029_mono.wav,Targets/mono/STE-029_mono.wav,B
+target1,APAdvAN,четири,критерий,Следващите стъпки определиха четири съществени за много голямото събрание,STE-030_mono.wav,Targets/mono/STE-030_mono.wav,C
+target1,A,пет,тюлен,На полюса зимата преживяха пет оцелели,STE-031_mono.wav,Targets/mono/STE-031_mono.wav,C
+target1,APN,пет,тюлен,На полюса зимата преживяха пет оцелели след заледяването,STE-032_mono.wav,Targets/mono/STE-032_mono.wav,A
+target1,APAdvAN,пет,тюлен,На полюса зимата преживяха пет оцелели след много рязкото заледяване,STE-033_mono.wav,Targets/mono/STE-033_mono.wav,B
+target1,A,три,дукат,Голямата сензация на търга станаха три продадени,STE-034_mono.wav,Targets/mono/STE-034_mono.wav,B
+target1,APN,три,дукат,Голямата сензация на търга станаха три продадени от дамата,STE-035_mono.wav,Targets/mono/STE-035_mono.wav,C
+target1,APAdvAN,три,дукат,Голямата сензация на търга станаха три продадени от много възрастната дама,STE-036_mono.wav,Targets/mono/STE-036_mono.wav,A
+target1,A,четири,образец,В класната стая дъската запълваха четири нарисувани,STE-037_mono.wav,Targets/mono/STE-037_mono.wav,A
+target1,APN,четири,образец,В класната стая дъската запълваха четири нарисувани от преподавателката,STE-038_mono.wav,Targets/mono/STE-038_mono.wav,B
+target1,APAdvAN,четири,образец,В класната стая дъската запълваха четири нарисувани от много младата преподавателка,STE-039_mono.wav,Targets/mono/STE-039_mono.wav,C
+target1,A,шест,жребец,На свобода тичаха шест избягали,STE-040_mono.wav,Targets/mono/STE-040_mono.wav,C
+target1,APN,шест,жребец,На свобода тичаха шест избягали от ранчото,STE-041_mono.wav,Targets/mono/STE-041_mono.wav,A
+target1,APAdvAN,шест,жребец,На свобода тичаха шест избягали от много голямото ранчо,STE-042_mono.wav,Targets/mono/STE-042_mono.wav,B
+target1,A,седем,вълк,В гората виеха седем страшни,STE-043_mono.wav,Targets/mono/STE-043_mono.wav,B
+target1,APN,седем,вълк,В гората виеха седем страшни за момичето,STE-044_mono.wav,Targets/mono/STE-044_mono.wav,C
+target1,APAdvAN,седем,вълк,В гората виеха седем страшни за много малкото момиче,STE-045_mono.wav,Targets/mono/STE-045_mono.wav,A
+target1,A,два,пръст,Вниманието на лекаря насочваха два надути,STE-046_mono.wav,Targets/mono/STE-046_mono.wav,A
+target1,APN,два,пръст,Вниманието на лекаря насочваха два надути след лечението,STE-047_mono.wav,Targets/mono/STE-047_mono.wav,B
+target1,APAdvAN,два,пръст,Вниманието на лекаря насочваха два надути след много скъпото лечение,STE-048_mono.wav,Targets/mono/STE-048_mono.wav,C
+target1,A,три,сокол,От скривалището излетяха три подплашени,STE-049_mono.wav,Targets/mono/STE-049_mono.wav,C
+target1,APN,три,сокол,От скривалището излетяха три подплашени от плашилото,STE-050_mono.wav,Targets/mono/STE-050_mono.wav,A
+target1,APAdvAN,три,сокол,От скривалището излетяха три подплашени от много голямото плашило,STE-051_mono.wav,Targets/mono/STE-051_mono.wav,B
+target1,A,пет,огън,Онази нощ горяха пет пламнали,STE-052_mono.wav,Targets/mono/STE-052_mono.wav,B
+target1,APN,пет,огън,Онази нощ горяха пет пламнали в гората,STE-053_mono.wav,Targets/mono/STE-053_mono.wav,C
+target1,APAdvAN,пет,огън,Онази нощ горяха пет пламнали в много гъстата гора,STE-054_mono.wav,Targets/mono/STE-054_mono.wav,A
+target1,A,четири,прозорец,С поправката майстора затрудниха четири счупени,STE-055_mono.wav,Targets/mono/STE-055_mono.wav,A
+target1,APN,четири,прозорец,С поправката майстора затрудниха четири счупени от детето,STE-056_mono.wav,Targets/mono/STE-056_mono.wav,B
+target1,APAdvAN,четири,прозорец,С поправката майстора затрудниха четири счупени от много малкото дете,STE-057_mono.wav,Targets/mono/STE-057_mono.wav,C
+target1,A,пет,кораб,На пристанището чакаха пет повредени,STE-058_mono.wav,Targets/mono/STE-058_mono.wav,C
+target1,APN,пет,кораб,На пристанището чакаха пет повредени от цунамито,STE-059_mono.wav,Targets/mono/STE-059_mono.wav,A
+target1,APAdvAN,пет,кораб,На пристанището чакаха пет повредени от много силното цунами,STE-060_mono.wav,Targets/mono/STE-060_mono.wav,B
+target1,A,шест,глас,На заседанито се откриха шест проблемни,STE-061_mono.wav,Targets/mono/STE-061_mono.wav,B
+target1,APN,шест,глас,На заседанито се откриха шест проблемни за заключението,STE-062_mono.wav,Targets/mono/STE-062_mono.wav,C
+target1,APAdvAN,шест,глас,На заседанито се откриха шест проблемни за много важното заключение,STE-063_mono.wav,Targets/mono/STE-063_mono.wav,A
+target1,A,седем,език,В страната се говореха седем разпространени,STE-064_mono.wav,Targets/mono/STE-064_mono.wav,A
+target1,APN,седем,език,В страната се говореха седем разпространени след завоеванието,STE-065_mono.wav,Targets/mono/STE-065_mono.wav,B
+target1,APAdvAN,седем,език,В страната се говореха седем разпространени след много внезапното завоевание,STE-066_mono.wav,Targets/mono/STE-066_mono.wav,C
+target1,A,шест,дом,От плъхове гъмжаха шест ремонтирани,STE-067_mono.wav,Targets/mono/STE-067_mono.wav,C
+target1,APN,шест,дом,От плъхове гъмжаха шест ремонтирани от хазяйката,STE-068_mono.wav,Targets/mono/STE-068_mono.wav,A
+target1,APAdvAN,шест,дом,От плъхове гъмжаха шест ремонтирани от много строгата хазяйка,STE-069_mono.wav,Targets/mono/STE-069_mono.wav,B
+target1,A,седем,наръчник,Решение на проблема предлагаха седем препоръчани,STE-070_mono.wav,Targets/mono/STE-070_mono.wav,B
+target1,APN,седем,наръчник,Решение на проблема предлагаха седем препоръчани от лекарката,STE-071_mono.wav,Targets/mono/STE-071_mono.wav,C
+target1,APAdvAN,седем,наръчник,Решение на проблема предлагаха седем препоръчани от много известната лекарка,STE-072_mono.wav,Targets/mono/STE-072_mono.wav,A
+filler1,A,две,маса,В работилницата бяха поправени две счупени,STE-001_mono.wav,Fillers1/mono/STE-001_mono.wav,A
+filler1,APN,две,маса,В работилницата бяха поправени две счупени от децата,STE-002_mono.wav,Fillers1/mono/STE-002_mono.wav,B
+filler1,APAdvAN,две,маса,В работилницата бяха поправени две счупени от много лошите деца,STE-003_mono.wav,Fillers1/mono/STE-003_mono.wav,C
+filler1,A,три,риба,В чинията бяха сервирани три изпържени,STE-004_mono.wav,Fillers1/mono/STE-004_mono.wav,C
+filler1,APN,три,риба,В чинията бяха сервирани три изпържени от момчетата,STE-005_mono.wav,Fillers1/mono/STE-005_mono.wav,A
+filler1,APAdvAN,три,риба,В чинията бяха сервирани три изпържени от много гладните момчета,STE-006_mono.wav,Fillers1/mono/STE-006_mono.wav,B
+filler1,A,четири,задача,На контролното се появиха четири решени,STE-007_mono.wav,Fillers1/mono/STE-007_mono.wav,B
+filler1,APN,четири,задача,На контролното се появиха четири решени от момичето,STE-008_mono.wav,Fillers1/mono/STE-008_mono.wav,C
+filler1,APAdvAN,четири,задача,На контролното се появиха четири решени от много ученолюбивото момиче,STE-009_mono.wav,Fillers1/mono/STE-009_mono.wav,A
+filler1,A,пет,принцеса,На коня седяха пет спасени,STE-010_mono.wav,Fillers1/mono/STE-010_mono.wav,A
+filler1,APN,пет,принцеса,На коня седяха пет спасени от юначето,STE-011_mono.wav,Fillers1/mono/STE-011_mono.wav,B
+filler1,APAdvAN,пет,принцеса,На коня седяха пет спасени от много смелото юначе,STE-012_mono.wav,Fillers1/mono/STE-012_mono.wav,C
+filler1,A,шест,купичка,В шкафа стояха шест пълни,STE-013_mono.wav,Fillers1/mono/STE-013_mono.wav,C
+filler1,APN,шест,купичка,В шкафа стояха шест пълни с камъчета,STE-014_mono.wav,Fillers1/mono/STE-014_mono.wav,A
+filler1,APAdvAN,шест,купичка,В шкафа стояха шест пълни с много ценни камъчета,STE-015_mono.wav,Fillers1/mono/STE-015_mono.wav,B
+filler1,A,седем,лодка,По водата се носеха седем инспектирани,STE-016_mono.wav,Fillers1/mono/STE-016_mono.wav,B
+filler1,APN,седем,лодка,По водата се носеха седем инспектирани от морячето,STE-017_mono.wav,Fillers1/mono/STE-017_mono.wav,C
+filler1,APAdvAN,седем,лодка,По водата се носеха седем инспектирани от много отговорното моряче,STE-018_mono.wav,Fillers1/mono/STE-018_mono.wav,A
+filler1,A,две,овца,В гората се изгубиха две подгонени,STE-019_mono.wav,Fillers1/mono/STE-019_mono.wav,A
+filler1,APN,две,овца,В гората се изгубиха две подгонени от вълчето,STE-020_mono.wav,Fillers1/mono/STE-020_mono.wav,B
+filler1,APAdvAN,две,овца,В гората се изгубиха две подгонени от много малкото вълче,STE-021_mono.wav,Fillers1/mono/STE-021_mono.wav,C
+filler1,A,три,ездачка,На земята лежаха три съборени,STE-022_mono.wav,Fillers1/mono/STE-022_mono.wav,C
+filler1,APN,три,ездачка,На земята лежаха три съборени от кончето,STE-023_mono.wav,Fillers1/mono/STE-023_mono.wav,A
+filler1,APAdvAN,три,ездачка,На земята лежаха три съборени от много буйното конче,STE-024_mono.wav,Fillers1/mono/STE-024_mono.wav,B
+filler1,A,четири,врата,При проверката се намериха четири отворени,STE-025_mono.wav,Fillers1/mono/STE-025_mono.wav,B
+filler1,APN,четири,врата,При проверката се намериха четири отворени с ключето,STE-026_mono.wav,Fillers1/mono/STE-026_mono.wav,C
+filler1,APAdvAN,четири,врата,При проверката се намериха четири отворени с много малкото ключе,STE-027_mono.wav,Fillers1/mono/STE-027_mono.wav,A
+filler1,A,пет,птица,През прозореца се забелязваха пет сгушени,STE-028_mono.wav,Fillers1/mono/STE-028_mono.wav,A
+filler1,APN,пет,птица,През прозореца се забелязваха пет сгушени на клончето,STE-029_mono.wav,Fillers1/mono/STE-029_mono.wav,B
+filler1,APAdvAN,пет,птица,През прозореца се забелязваха пет сгушени на много малкото клонче,STE-030_mono.wav,Fillers1/mono/STE-030_mono.wav,C
+filler1,A,шест,пчела,Вчера бяха идентифицирани шест жилещи,STE-031_mono.wav,Fillers1/mono/STE-031_mono.wav,C
+filler1,APN,шест,пчела,Вчера бяха идентифицирани шест жилещи мечето,STE-032_mono.wav,Fillers1/mono/STE-032_mono.wav,A
+filler1,APAdvAN,шест,пчела,Вчера бяха идентифицирани шест жилещи много малкото мече,STE-033_mono.wav,Fillers1/mono/STE-033_mono.wav,B
+filler1,A,седем,програма,На заседанието бяха разгледани седем актуални,STE-034_mono.wav,Fillers1/mono/STE-034_mono.wav,B
+filler1,APN,седем,програма,На заседанието бяха разгледани седем актуални във времето,STE-035_mono.wav,Fillers1/mono/STE-035_mono.wav,C
+filler1,APAdvAN,седем,програма,На заседанието бяха разгледани седем актуални в много трудното време,STE-036_mono.wav,Fillers1/mono/STE-036_mono.wav,A
+filler1,A,две,книга,Миналата година излязоха две преведени,STE-037_mono.wav,Fillers1/mono/STE-037_mono.wav,A
+filler1,APN,две,книга,Миналата година излязоха две преведени от ученика,STE-038_mono.wav,Fillers1/mono/STE-038_mono.wav,B
+filler1,APAdvAN,две,книга,Миналата година излязоха две преведени от много ученолюбивия ученик,STE-039_mono.wav,Fillers1/mono/STE-039_mono.wav,C
+filler1,A,три,кола,По пътя се движеха три поправени,STE-040_mono.wav,Fillers1/mono/STE-040_mono.wav,C
+filler1,APN,три,кола,По пътя се движеха три поправени от майстора,STE-041_mono.wav,Fillers1/mono/STE-041_mono.wav,A
+filler1,APAdvAN,три,кола,По пътя се движеха три поправени от много сръчния майстор,STE-042_mono.wav,Fillers1/mono/STE-042_mono.wav,B
+filler1,A,четири,гора,През нощта горяха четири подпалени,STE-043_mono.wav,Fillers1/mono/STE-043_mono.wav,B
+filler1,APN,четири,гора,През нощта горяха четири подпалени от бракониера,STE-044_mono.wav,Fillers1/mono/STE-044_mono.wav,C
+filler1,APAdvAN,четири,гора,През нощта горяха четири подпалени от много опасния бракониер,STE-045_mono.wav,Fillers1/mono/STE-045_mono.wav,A
+filler1,A,пет,доставка,Вчера пристигнаха пет превозени,STE-046_mono.wav,Fillers1/mono/STE-046_mono.wav,A
+filler1,APN,пет,доставка,Вчера пристигнаха пет превозени с камиона,STE-047_mono.wav,Fillers1/mono/STE-047_mono.wav,B
+filler1,APAdvAN,пет,доставка,Вчера пристигнаха пет превозени с много големия камион,STE-048_mono.wav,Fillers1/mono/STE-048_mono.wav,C
+filler1,A,шест,песен,В залата прозвучаха шест изпeти,STE-049_mono.wav,Fillers1/mono/STE-049_mono.wav,C
+filler1,APN,шест,песен,В залата прозвучаха шест изпeти от певеца,STE-050_mono.wav,Fillers1/mono/STE-050_mono.wav,A
+filler1,APAdvAN,шест,песен,В залата прозвучаха шест изпeти от много известния певец,STE-051_mono.wav,Fillers1/mono/STE-051_mono.wav,B
+filler1,A,седем,кофа,Пред вратата бяха оставени седем пълни,STE-052_mono.wav,Fillers1/mono/STE-052_mono.wav,B
+filler1,APN,седем,кофа,Пред вратата бяха оставени седем пълни със сняг,STE-053_mono.wav,Fillers1/mono/STE-053_mono.wav,C
+filler1,APAdvAN,седем,кофа,Пред вратата бяха оставени седем пълни с много ситен сняг,STE-054_mono.wav,Fillers1/mono/STE-054_mono.wav,A
+filler1,A,две,брошура,На масата бяха подредени две оцветени брошури,STE-055_mono.wav,Fillers1/mono/STE-055_mono.wav,A
+filler1,APN,две,брошура,На масата бяха подредени две оцветени от студента,STE-056_mono.wav,Fillers1/mono/STE-056_mono.wav,B
+filler1,APAdvAN,две,брошура,На масата бяха подредени две оцветени от много умния студент,STE-057_mono.wav,Fillers1/mono/STE-057_mono.wav,C
+filler1,A,три,чаша,На земята проблясваха три счупени,STE-058_mono.wav,Fillers1/mono/STE-058_mono.wav,C
+filler1,APN,три,чаша,На земята проблясваха три счупени след удара,STE-059_mono.wav,Fillers1/mono/STE-059_mono.wav,A
+filler1,APAdvAN,три,чаша,На земята проблясваха три счупени след много силния удар,STE-060_mono.wav,Fillers1/mono/STE-060_mono.wav,B
+filler1,A,четири,бутилка,В барчето бяха сложени четири пълни,STE-061_mono.wav,Fillers1/mono/STE-061_mono.wav,B
+filler1,APN,четири,бутилка,В барчето бяха сложени четири пълни с коняк,STE-062_mono.wav,Fillers1/mono/STE-062_mono.wav,C
+filler1,APAdvAN,четири,бутилка,В барчето бяха сложени четири пълни с много силен коняк,STE-063_mono.wav,Fillers1/mono/STE-063_mono.wav,A
+filler1,A,пет,новела,Подготвяха се за печат пет написани,STE-064_mono.wav,Fillers1/mono/STE-064_mono.wav,A
+filler1,APN,пет,новела,Подготвяха се за печат пет написани от автора,STE-065_mono.wav,Fillers1/mono/STE-065_mono.wav,B
+filler1,APAdvAN,пет,новела,Подготвяха се за печат пет написани от много известния автор,STE-066_mono.wav,Fillers1/mono/STE-066_mono.wav,C
+filler1,A,шест,служителка,На комисията се оплакаха шест тормозени,STE-067_mono.wav,Fillers1/mono/STE-067_mono.wav,C
+filler1,APN,шест,служителка,На комисията се оплакаха шест тормозени от шефа,STE-068_mono.wav,Fillers1/mono/STE-068_mono.wav,A
+filler1,APAdvAN,шест,служителка,На комисията се оплакаха шест тормозени от много лошия шеф,STE-069_mono.wav,Fillers1/mono/STE-069_mono.wav,B
+filler1,A,седем,анкета,В списанието бяха публикувани седем попълнени,STE-070_mono.wav,Fillers1/mono/STE-070_mono.wav,B
+filler1,APN,седем,анкета,В списанието бяха публикувани седем попълнени от клиента,STE-071_mono.wav,Fillers1/mono/STE-071_mono.wav,C
+filler1,APAdvAN,седем,анкета,В списанието бяха публикувани седем попълнени от много доволния клиент,STE-072_mono.wav,Fillers1/mono/STE-072_mono.wav,A
+filler2,A,,терен,Зад хълма се намираха обработени,STE-067_mono.wav,Fillers2/mono/STE-067_mono.wav,A
+filler2,APN,,терен,Зад хълма се намираха обработени от трактора,STE-068_mono.wav,Fillers2/mono/STE-068_mono.wav,B
+filler2,APAdvAN,,терен,Зад хълма се намираха обработени от много големия трактор,STE-069_mono.wav,Fillers2/mono/STE-069_mono.wav,C
+filler2,A,,креват,Снощи бяха поправени счупените,STE-070_mono.wav,Fillers2/mono/STE-070_mono.wav,C
+filler2,APN,,креват,Снощи бяха поправени счупените с камъка,STE-071_mono.wav,Fillers2/mono/STE-071_mono.wav,A
+filler2,APAdvAN,,креват,Снощи бяха поправени счупените с много големия камък,STE-072_mono.wav,Fillers2/mono/STE-072_mono.wav,B
+filler2,A,,войник,На листа личаха нарисуваните,STE-001_mono.wav,Fillers2/mono/STE-001_mono.wav,B
+filler2,APN,,войник,На листа личаха нарисуваните с моливa,STE-002_mono.wav,Fillers2/mono/STE-002_mono.wav,C
+filler2,APAdvAN,,войник,На листа личаха нарисуваните с много малкия молив,STE-003_mono.wav,Fillers2/mono/STE-003_mono.wav,A
+filler2,A,,домат,В хладилника бяха сложени нарязани,STE-004_mono.wav,Fillers2/mono/STE-004_mono.wav,A
+filler2,APN,,домат,В хладилника бяха сложени нарязани с ножа,STE-005_mono.wav,Fillers2/mono/STE-005_mono.wav,B
+filler2,APAdvAN,,домат,В хладилника бяха сложени нарязани с много острия нож,STE-006_mono.wav,Fillers2/mono/STE-006_mono.wav,C
+filler2,A,,орех,В гората се виждаха отсечените,STE-007_mono.wav,Fillers2/mono/STE-007_mono.wav,C
+filler2,APN,,орех,В гората се виждаха отсечените от дърваря,STE-008_mono.wav,Fillers2/mono/STE-008_mono.wav,A
+filler2,APAdvAN,,орех,В гората се виждаха отсечените от много стария дървар,STE-009_mono.wav,Fillers2/mono/STE-009_mono.wav,B
+filler2,A,,язовир,На конференцията се обсъждаха замърсените,STE-010_mono.wav,Fillers2/mono/STE-010_mono.wav,B
+filler2,APN,,язовир,На конференцията се обсъждаха замърсените с химикал,STE-011_mono.wav,Fillers2/mono/STE-011_mono.wav,C
+filler2,APAdvAN,,язовир,На конференцията се обсъждаха замърсените с много опасен химикал,STE-012_mono.wav,Fillers2/mono/STE-012_mono.wav,A
+filler2,A,,курорт,На снимката се открояваха новоизградените,STE-013_mono.wav,Fillers2/mono/STE-013_mono.wav,A
+filler2,APN,,курорт,На снимката се открояваха новоизградените от предприемача,STE-014_mono.wav,Fillers2/mono/STE-014_mono.wav,B
+filler2,APAdvAN,,курорт,На снимката се открояваха новоизградените от много богатия предприемач,STE-015_mono.wav,Fillers2/mono/STE-015_mono.wav,C
+filler2,A,,пуловер,В гардероба бяха закачени почистените,STE-016_mono.wav,Fillers2/mono/STE-016_mono.wav,C
+filler2,APN,,пуловер,В гардероба бяха закачени почистените с препарат,STE-017_mono.wav,Fillers2/mono/STE-017_mono.wav,A
+filler2,APAdvAN,,пуловер,В гардероба бяха закачени почистените с много силен препарат,STE-018_mono.wav,Fillers2/mono/STE-018_mono.wav,B
+filler2,A,,ученик,В ъгъла стояха наказаните,STE-019_mono.wav,Fillers2/mono/STE-019_mono.wav,B
+filler2,APN,,ученик,В ъгъла стояха наказаните от учителя,STE-020_mono.wav,Fillers2/mono/STE-020_mono.wav,C
+filler2,APAdvAN,,ученик,В ъгъла стояха наказаните от много строгия учител,STE-021_mono.wav,Fillers2/mono/STE-021_mono.wav,A
+filler2,A,,учител,На стола си почиваха консултираните,STE-022_mono.wav,Fillers2/mono/STE-022_mono.wav,A
+filler2,APN,,учител,На стола си почиваха консултираните от психолога,STE-023_mono.wav,Fillers2/mono/STE-023_mono.wav,B
+filler2,APAdvAN,,учител,На стола си почиваха консултираните от много опитния психолог,STE-024_mono.wav,Fillers2/mono/STE-024_mono.wav,C
+filler2,A,,роман,Лесно се четяха редактираните,STE-025_mono.wav,Fillers2/mono/STE-025_mono.wav,C
+filler2,APN,,роман,Лесно се четяха редактираните от редактора,STE-026_mono.wav,Fillers2/mono/STE-026_mono.wav,A
+filler2,APAdvAN,,роман,Лесно се четяха редактираните от много внимателния редактор,STE-027_mono.wav,Fillers2/mono/STE-027_mono.wav,B
+filler2,A,,емигрант,В полицията бяха идентифицирани превозените,STE-028_mono.wav,Fillers2/mono/STE-028_mono.wav,B
+filler2,APN,,емигрант,В полицията бяха идентифицирани превозените в тира,STE-029_mono.wav,Fillers2/mono/STE-029_mono.wav,C
+filler2,APAdvAN,,емигрант,В полицията бяха идентифицирани превозените в много големия тир,STE-030_mono.wav,Fillers2/mono/STE-030_mono.wav,A
+filler2,A,,гирлянд,От кутията се показваха съхраняваните,STE-031_mono.wav,Fillers2/mono/STE-031_mono.wav,A
+filler2,APN,,гирлянд,От кутията се показваха съхраняваните от дамата,STE-032_mono.wav,Fillers2/mono/STE-032_mono.wav,B
+filler2,APAdvAN,,гирлянд,От кутията се показваха съхраняваните от много младата дама,STE-033_mono.wav,Fillers2/mono/STE-033_mono.wav,C
+filler2,A,,крем,В аптеката се продаваха рекламираните,STE-034_mono.wav,Fillers2/mono/STE-034_mono.wav,C
+filler2,APN,,крем,В аптеката се продаваха рекламираните от компанията,STE-035_mono.wav,Fillers2/mono/STE-035_mono.wav,A
+filler2,APAdvAN,,крем,В аптеката се продаваха рекламираните от много известната компания,STE-036_mono.wav,Fillers2/mono/STE-036_mono.wav,B
+filler2,A,,камък,След обяд бяха намерени хвърлените,STE-037_mono.wav,Fillers2/mono/STE-037_mono.wav,B
+filler2,APN,,камък,След обяд бяха намерени хвърлените в реката,STE-038_mono.wav,Fillers2/mono/STE-038_mono.wav,C
+filler2,APAdvAN,,камък,След обяд бяха намерени хвърлените в много голямата река,STE-039_mono.wav,Fillers2/mono/STE-039_mono.wav,A
+filler2,A,,документ,Във вестника бяха публикувани приетите,STE-040_mono.wav,Fillers2/mono/STE-040_mono.wav,A
+filler2,APN,,документ,Във вестника бяха публикувани приетите след срещата,STE-041_mono.wav,Fillers2/mono/STE-041_mono.wav,B
+filler2,APAdvAN,,документ,Във вестника бяха публикувани приетите след много късната среща,STE-042_mono.wav,Fillers2/mono/STE-042_mono.wav,C
+filler2,A,,карамфил,От градината бяха откъснати засадените,STE-043_mono.wav,Fillers2/mono/STE-043_mono.wav,C
+filler2,APN,,карамфил,От градината бяха откъснати засадените от девойката,STE-044_mono.wav,Fillers2/mono/STE-044_mono.wav,A
+filler2,APAdvAN,,карамфил,От градината бяха откъснати засадените от много красивата девойка,STE-045_mono.wav,Fillers2/mono/STE-045_mono.wav,B
+filler2,A,,овен,Във фермата живееха отгледаните,STE-046_mono.wav,Fillers2/mono/STE-046_mono.wav,B
+filler2,APN,,овен,Във фермата живееха отгледаните от фермерката,STE-047_mono.wav,Fillers2/mono/STE-047_mono.wav,C
+filler2,APAdvAN,,овен,Във фермата живееха отгледаните от много старата фермерка,STE-048_mono.wav,Fillers2/mono/STE-048_mono.wav,A
+filler2,A,,панталон,Бързо се купуваха разкроените,STE-049_mono.wav,Fillers2/mono/STE-049_mono.wav,A
+filler2,APN,,панталон,Бързо се купуваха разкроените от шивачката,STE-050_mono.wav,Fillers2/mono/STE-050_mono.wav,B
+filler2,APAdvAN,,панталон,Бързо се купуваха разкроените от много опитната шивачка,STE-051_mono.wav,Fillers2/mono/STE-051_mono.wav,C
+filler2,A,,гардероб,Тази сутрин бяха подредени почистените,STE-052_mono.wav,Fillers2/mono/STE-052_mono.wav,C
+filler2,APN,,гардероб,Тази сутрин бяха подредени почистените от домакинята,STE-053_mono.wav,Fillers2/mono/STE-053_mono.wav,A
+filler2,APAdvAN,,гардероб,Тази сутрин бяха подредени почистените от много добрата домакиня,STE-054_mono.wav,Fillers2/mono/STE-054_mono.wav,B
+filler2,A,,портрет,На стената висяха дарените портрети,STE-055_mono.wav,Fillers2/mono/STE-055_mono.wav,B
+filler2,APN,,портрет,На стената висяха дарените от фирмата,STE-056_mono.wav,Fillers2/mono/STE-056_mono.wav,C
+filler2,APAdvAN,,портрет,На стената висяха дарените от много известната фирма,STE-057_mono.wav,Fillers2/mono/STE-057_mono.wav,A
+filler2,A,,байрак,На площада се развяваха ушитите,STE-058_mono.wav,Fillers2/mono/STE-058_mono.wav,A
+filler2,APN,,байрак,На площада се развяваха ушитите от вдовицата,STE-059_mono.wav,Fillers2/mono/STE-059_mono.wav,B
+filler2,APAdvAN,,байрак,На площада се развяваха ушитите от много смелата вдовица,STE-060_mono.wav,Fillers2/mono/STE-060_mono.wav,C
+filler2,A,,далматинец,На дивана лежаха обучените,STE-061_mono.wav,Fillers2/mono/STE-061_mono.wav,C
+filler2,APN,,далматинец,На дивана лежаха обучените от стопанката,STE-062_mono.wav,Fillers2/mono/STE-062_mono.wav,A
+filler2,APAdvAN,,далматинец,На дивана лежаха обучените от много добрата стопанка,STE-063_mono.wav,Fillers2/mono/STE-063_mono.wav,B
+filler2,A,,дворец,Преди дни бяха отворени реставрираните,STE-064_mono.wav,Fillers2/mono/STE-064_mono.wav,B
+filler2,APN,,дворец,Преди дни бяха отворени реставрираните от реставраторката,STE-065_mono.wav,Fillers2/mono/STE-065_mono.wav,C
+filler2,APAdvAN,,дворец,Преди дни бяха отворени реставрираните от много известната реставраторка,STE-066_mono.wav,Fillers2/mono/STE-066_mono.wav,A
+filler3,A,,рокля,В пералнята се перяха намокрените,STE-001_mono.wav,Fillers3/mono/STE-001_mono.wav,A
+filler3,APN,,рокля,В пералнята се перяха намокрените от дъжда,STE-002_mono.wav,Fillers3/mono/STE-002_mono.wav,B
+filler3,APAdvAN,,рокля,В пералнята се перяха намокрените от много силния дъжд,STE-003_mono.wav,Fillers3/mono/STE-003_mono.wav,C
+filler3,A,,снимка,От чекмеджето се подаваха направените,STE-004_mono.wav,Fillers3/mono/STE-004_mono.wav,C
+filler3,APN,,снимка,От чекмеджето се подаваха направените с фотоапарата,STE-005_mono.wav,Fillers3/mono/STE-005_mono.wav,A
+filler3,APAdvAN,,снимка,От чекмеджето се подаваха направените с много скъпия фотоапарат,STE-006_mono.wav,Fillers3/mono/STE-006_mono.wav,B
+filler3,A,,котка,В градината се криеха избягалите,STE-007_mono.wav,Fillers3/mono/STE-007_mono.wav,B
+filler3,APN,,котка,В градината се криеха избягалите от зоомагазина,STE-008_mono.wav,Fillers3/mono/STE-008_mono.wav,C
+filler3,APAdvAN,,котка,В градината се криеха избягалите от много близкия зоомагазин,STE-009_mono.wav,Fillers3/mono/STE-009_mono.wav,A
+filler3,A,,пъстърва,За вечеря бяха приготвени замразените,STE-010_mono.wav,Fillers3/mono/STE-010_mono.wav,A
+filler3,APN,,пъстърва,За вечеря бяха приготвени замразените в хладилника,STE-011_mono.wav,Fillers3/mono/STE-011_mono.wav,B
+filler3,APAdvAN,,пъстърва,За вечеря бяха приготвени замразените в много големия хладилник,STE-012_mono.wav,Fillers3/mono/STE-012_mono.wav,C
+filler3,A,,терористка,В затвора бяха изпратени осъдените,STE-013_mono.wav,Fillers3/mono/STE-013_mono.wav,C
+filler3,APN,,терористка,В затвора бяха изпратени осъдените от съдията,STE-014_mono.wav,Fillers3/mono/STE-014_mono.wav,A
+filler3,APAdvAN,,терористка,В затвора бяха изпратени осъдените от много строгия съдия,STE-015_mono.wav,Fillers3/mono/STE-015_mono.wav,B
+filler3,A,,работа,В учителската стая се обсъждаха коригираните,STE-016_mono.wav,Fillers3/mono/STE-016_mono.wav,B
+filler3,APN,,работа,В учителската стая се обсъждаха коригираните от учителя,STE-017_mono.wav,Fillers3/mono/STE-017_mono.wav,C
+filler3,APAdvAN,,работа,В учителската стая се обсъждаха коригираните от много добрия учител,STE-018_mono.wav,Fillers3/mono/STE-018_mono.wav,A
+filler3,A,,нива,В продължение на километри се простираха изораните,STE-019_mono.wav,Fillers3/mono/STE-019_mono.wav,A
+filler3,APN,,нива,В продължение на километри се простираха изораните от селянина,STE-020_mono.wav,Fillers3/mono/STE-020_mono.wav,B
+filler3,APAdvAN,,нива,В продължение на километри се простираха изораните от много възрастния селянин,STE-021_mono.wav,Fillers3/mono/STE-021_mono.wav,C
+filler3,A,,традиция,В селото се спазваха характерните,STE-022_mono.wav,Fillers3/mono/STE-022_mono.wav,C
+filler3,APN,,традиция,В селото се спазваха характерните за народа,STE-023_mono.wav,Fillers3/mono/STE-023_mono.wav,A
+filler3,APAdvAN,,традиция,В селото се спазваха характерните за много древния народ,STE-024_mono.wav,Fillers3/mono/STE-024_mono.wav,B
+filler3,A,,крава,На ливадата пасяха обичаните,STE-025_mono.wav,Fillers3/mono/STE-025_mono.wav,B
+filler3,APN,,крава,На ливадата пасяха обичаните от стопанина,STE-026_mono.wav,Fillers3/mono/STE-026_mono.wav,C
+filler3,APAdvAN,,крава,На ливадата пасяха обичаните от много милия стопанин,STE-027_mono.wav,Fillers3/mono/STE-027_mono.wav,A
+filler3,A,,докторка,В махалата болните лекуваха известните,STE-028_mono.wav,Fillers3/mono/STE-028_mono.wav,A
+filler3,APN,,докторка,В махалата болните лекуваха известните в региона,STE-029_mono.wav,Fillers3/mono/STE-029_mono.wav,B
+filler3,APAdvAN,,докторка,В махалата болните лекуваха известните в много големия регион,STE-030_mono.wav,Fillers3/mono/STE-030_mono.wav,C
+filler3,A,,звезда,На небето светеха впечатляващите,STE-031_mono.wav,Fillers3/mono/STE-031_mono.wav,C
+filler3,APN,,звезда,На небето светеха впечатляващите моряка,STE-032_mono.wav,Fillers3/mono/STE-032_mono.wav,A
+filler3,APAdvAN,,звезда,На небето светеха впечатляващите много стария моряк,STE-033_mono.wav,Fillers3/mono/STE-033_mono.wav,B
+filler3,A,,пациентка,В болницата чакаха ранените,STE-034_mono.wav,Fillers3/mono/STE-034_mono.wav,B
+filler3,APN,,пациентка,В болницата чакаха ранените от вълка,STE-035_mono.wav,Fillers3/mono/STE-035_mono.wav,C
+filler3,APAdvAN,,пациентка,В болницата чакаха ранените от много агресивния вълк,STE-036_mono.wav,Fillers3/mono/STE-036_mono.wav,A
+filler3,A,,скала,Миналия месец рухнаха напуканите,STE-037_mono.wav,Fillers3/mono/STE-037_mono.wav,A
+filler3,APN,,скала,Миналия месец рухнаха напуканите през лятото,STE-038_mono.wav,Fillers3/mono/STE-038_mono.wav,B
+filler3,APAdvAN,,скала,Миналия месец рухнаха напуканите през много горещото лято,STE-039_mono.wav,Fillers3/mono/STE-039_mono.wav,C
+filler3,A,,картичка,Онази нощ децата радваха надписаните,STE-040_mono.wav,Fillers3/mono/STE-040_mono.wav,C
+filler3,APN,,картичка,Онази нощ децата радваха надписаните със старание,STE-041_mono.wav,Fillers3/mono/STE-041_mono.wav,A
+filler3,APAdvAN,,картичка,Онази нощ децата радваха надписаните с много голямо старание,STE-042_mono.wav,Fillers3/mono/STE-042_mono.wav,B
+filler3,A,,течност,На сутринта се разсипаха налетите,STE-043_mono.wav,Fillers3/mono/STE-043_mono.wav,B
+filler3,APN,,течност,На сутринта се разсипаха налетите в гърнето,STE-044_mono.wav,Fillers3/mono/STE-044_mono.wav,C
+filler3,APAdvAN,,течност,На сутринта се разсипаха налетите в много голямото гърне,STE-045_mono.wav,Fillers3/mono/STE-045_mono.wav,A
+filler3,A,,мисионерка,В манастира се укриваха избягалите,STE-046_mono.wav,Fillers3/mono/STE-046_mono.wav,A
+filler3,APN,,мисионерка,В манастира се укриваха избягалите след приключението,STE-047_mono.wav,Fillers3/mono/STE-047_mono.wav,B
+filler3,APAdvAN,,мисионерка,В манастира се укриваха избягалите след много опасното приключение,STE-048_mono.wav,Fillers3/mono/STE-048_mono.wav,C
+filler3,A,,джанка,На земята паднаха висящите,STE-049_mono.wav,Fillers3/mono/STE-049_mono.wav,C
+filler3,APN,,джанка,На земята паднаха висящите на клончето,STE-050_mono.wav,Fillers3/mono/STE-050_mono.wav,A
+filler3,APAdvAN,,джанка,На земята паднаха висящите на много тънкото клонче,STE-051_mono.wav,Fillers3/mono/STE-051_mono.wav,B
+filler3,A,,специалистка,Върху проблема работеха изморените,STE-052_mono.wav,Fillers3/mono/STE-052_mono.wav,B
+filler3,APN,,специалистка,Върху проблема работеха изморените след безсъние,STE-053_mono.wav,Fillers3/mono/STE-053_mono.wav,C
+filler3,APAdvAN,,специалистка,Върху проблема работеха изморените след много дълго безсъние,STE-054_mono.wav,Fillers3/mono/STE-054_mono.wav,A
+filler3,A,,спринтьорка,Състезанието спечелиха изтощените,STE-055_mono.wav,Fillers3/mono/STE-055_mono.wav,A
+filler3,APN,,спринтьорка,Състезанието спечелиха изтощените след бягането,STE-056_mono.wav,Fillers3/mono/STE-056_mono.wav,B
+filler3,APAdvAN,,спринтьорка,Състезанието спечелиха изтощените след много дългото бягане,STE-057_mono.wav,Fillers3/mono/STE-057_mono.wav,C
+filler3,A,,госпожа,В къщата кръвното си мереха отслабналите,STE-058_mono.wav,Fillers3/mono/STE-058_mono.wav,C
+filler3,APN,,госпожа,В къщата кръвното си мереха отслабналите след боледуването,STE-059_mono.wav,Fillers3/mono/STE-059_mono.wav,A
+filler3,APAdvAN,,госпожа,В къщата кръвното си мереха отслабналите след много тежкото боледуване,STE-060_mono.wav,Fillers3/mono/STE-060_mono.wav,B
+filler3,A,,част,Снощи се смениха счупените,STE-061_mono.wav,Fillers3/mono/STE-061_mono.wav,B
+filler3,APN,,част,Снощи се смениха счупените с чукчето,STE-062_mono.wav,Fillers3/mono/STE-062_mono.wav,C
+filler3,APAdvAN,,част,Снощи се смениха счупената с много здравото чукче,STE-063_mono.wav,Fillers3/mono/STE-063_mono.wav,A
+filler3,A,,поляна,През пролетта се раззелениха скритите,STE-064_mono.wav,Fillers3/mono/STE-064_mono.wav,A
+filler3,APN,,поляна,През пролетта се раззелениха скритите зад хълмчето,STE-065_mono.wav,Fillers3/mono/STE-065_mono.wav,B
+filler3,APAdvAN,,поляна,През пролетта се раззелениха скритите зад много ниското хълмче,STE-066_mono.wav,Fillers3/mono/STE-066_mono.wav,C
+filler3,A,,алпинистка,В хижата се настаниха измръзналите,STE-067_mono.wav,Fillers3/mono/STE-067_mono.wav,C
+filler3,APN,,алпинистка,В хижата се настаниха измръзналите след изкачването,STE-068_mono.wav,Fillers3/mono/STE-068_mono.wav,A
+filler3,APAdvAN,,алпинистка,В хижата се настаниха измръзналите след много трудното изкачване,STE-069_mono.wav,Fillers3/mono/STE-069_mono.wav,B
+filler3,A,,дума,На листа трудно се четяха написаните,STE-070_mono.wav,Fillers3/mono/STE-070_mono.wav,B
+filler3,APN,,дума,На листа трудно се четяха написаните с мастило,STE-071_mono.wav,Fillers3/mono/STE-071_mono.wav,C
+filler3,APAdvAN,,дума,На листа трудно се четяха написаните с много вредно мастило,STE-072_mono.wav,Fillers3/mono/STE-072_mono.wav,A
