@@ -1,7 +1,0 @@
-﻿Type,TargetAudioFile,TargetWord,ConditionLabel,condition,Group
-target,t1.m4a,вълк,Cond1,condition1,A
-filler1,t2.m4a,котка,Cond2,condition2,A
-filler2,t3.m4a,куче,Cond3,condition3,A
-target,t2.m4a,вълк,Cond2,condition4,B
-filler3,t3.m4a,котка,Cond3,condition5,B
-filler4,t1.m4a,куче,Cond1,condition6,B
